@@ -1,6 +1,6 @@
 {
-	"author": "Muhammad Zeeshan Ali",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Muhammad Zeeshan Ali",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
