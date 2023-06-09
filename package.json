@@ -1,15 +1,4 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Jane Doe",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https: //github.com/I-m-Zee/boilerplate-npm-1"		
-	}
+	"author": "Jane Doe"
+
 }
